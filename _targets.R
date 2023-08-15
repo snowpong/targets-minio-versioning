@@ -6,7 +6,8 @@ s3_endpoint <- "http://127.0.0.1:9000"
 s3_bucket = "targets-versioned"
 Sys.setenv(
   AWS_ACCESS_KEY_ID = "testcreds",
-  AWS_SECRET_ACCESS_KEY = "testcreds"
+  AWS_SECRET_ACCESS_KEY = "testcreds",
+  AWS_REGION="NULL"
 )
 s3_service <- paws::s3(
   config =
