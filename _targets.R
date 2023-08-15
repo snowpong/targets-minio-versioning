@@ -36,7 +36,7 @@ lapply(list.files("R", full.names = TRUE, recursive = TRUE), source)
 list(
   tar_target(
     name = data,
-    command = data.frame(x = rnorm(2000), y = rnorm(2000))
+    command = data.frame(x = rnorm(1000), y = rnorm(1000))
   ),
   tar_target(
     name = model,

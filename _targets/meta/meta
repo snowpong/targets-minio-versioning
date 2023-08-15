@@ -1,6 +1,6 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-data|stem|a6f1f2a285e2f7bd|e70dc20c5f816713|788eee631985567a|1588979285|bucket=targets-versioned*region=NULL*key=_targets/objects/data*endpoint=aHR0cDovLzEyNy4wLjAuMTo5MDAw*version=1d8ea831-6b6d-49d9-8d96-27feda217398|t19193.6509446905s||30866|rds|aws|vector|||0.002||
-model|stem|bc83dfcd79f6cca7|ae83bc723fe2997c|b93003888de9dab3|1816327236|bucket=targets-versioned*region=NULL*key=_targets/objects/model*endpoint=aHR0cDovLzEyNy4wLjAuMTo5MDAw*version=0ccce884-312d-47c5-9432-8458e44797bf|t19193.650953576s||107|rds|aws|vector|||0.011||
+data|stem|45850323c8db477b|a2e722da49bec55e|788eee631985567a|1588979285|bucket=targets-versioned*region=NULL*key=_targets/objects/data*endpoint=aHR0cDovLzEyNy4wLjAuMTo5MDAw*version=89f2c81a-dbef-4494-9695-2019ecceb87c|t19584.5098307895s||15527|rds|aws|vector|||0.01||
+model|stem|a159fe9e72caa043|ae83bc723fe2997c|c195004549950ab5|1816327236|bucket=targets-versioned*region=NULL*key=_targets/objects/model*endpoint=aHR0cDovLzEyNy4wLjAuMTo5MDAw*version=e4dfeef4-569a-48db-bb95-9ace78df19db|t19584.509833369s||110|rds|aws|vector|||0||
 s3_bucket|object|e05f33a308912716|||||||||||||||
 s3_endpoint|object|2838cb50595ab9a0|||||||||||||||
 s3_service|object|37bfa50c5725e2e1|||||||||||||||
